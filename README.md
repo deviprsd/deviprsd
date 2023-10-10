@@ -1,1 +1,1 @@
-# deviprsd21.github.io
+[![Devi's GitHub stats](https://github-readme-stats.vercel.app/api?username=deviprsd)](https://github.com/anuraghazra/github-readme-stats)
